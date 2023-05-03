@@ -22,7 +22,7 @@ let phaseContent=[
         selectedContent=phaseContent[i];
         if(i<4){ //페이즈1~4 이미지 추가
           for(let j=0;j<imgI[i];j++){
-            imgPhases.push(<li key={(i+1)+"_"+(j+1)}><img alt='phaseImg' src={'/img/phase'+(i+1)+'_'+(j+1)+'.jpg'}></img></li>);
+            imgPhases.push(<li key={(i+1)+"_"+(j+1)}><img alt='phaseImg' src={'img/phase'+(i+1)+'_'+(j+1)+'.jpg'}></img></li>);
           }
         } else{ //페이즈5,6 텍스트만 추가
           imgPhases.push(<h3>Coming soon</h3>);
