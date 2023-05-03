@@ -1,0 +1,42 @@
+body{
+    background: black;
+    text-align: center;
+    min-width: 1400px;
+    min-height: 700px;
+}
+
+.Opening p{
+    font-family: sans-serif;
+    line-height: 1.2em;
+}
+.openingImg{
+    margin-top: 130px;
+    width: 100%;
+
+}
+.ment1{
+    position: absolute;
+    top:-15px;
+    left: 280px;
+    width: 800px;
+    font-weight: 700;
+    font-size: 3em;
+    cursor: default;
+    text-shadow: 2px 2px 7px red;
+    line-height: 1.2em;
+    width: 1000px;
+}
+.ment2{
+    font-size: 2em;
+    position: absolute;
+    top:250px;
+    left:710px;
+    font-weight: 500;
+    border: 3px solid white;
+    padding: 6px;
+    cursor: pointer;
+}
+.ment2:hover{
+    color: red;
+    border: 3px solid red;
+}
