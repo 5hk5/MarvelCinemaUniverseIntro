@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarvelCinemaUniverseIntro/static/css/main.833279d7.css",
-    "main.js": "/MarvelCinemaUniverseIntro/static/js/main.caa8e39d.js",
+    "main.js": "/MarvelCinemaUniverseIntro/static/js/main.a8617b1c.js",
     "static/js/787.100a7847.chunk.js": "/MarvelCinemaUniverseIntro/static/js/787.100a7847.chunk.js",
     "static/media/Pretendard-Medium.otf": "/MarvelCinemaUniverseIntro/static/media/Pretendard-Medium.a8904df42c9b4f93a668.otf",
     "static/media/Pretendard-Thin.otf": "/MarvelCinemaUniverseIntro/static/media/Pretendard-Thin.6c732c788300615e6a65.otf",
@@ -9,11 +9,11 @@
     "static/media/Pretendard-Thin.woff": "/MarvelCinemaUniverseIntro/static/media/Pretendard-Thin.348f24715998d74e9f55.woff",
     "index.html": "/MarvelCinemaUniverseIntro/index.html",
     "main.833279d7.css.map": "/MarvelCinemaUniverseIntro/static/css/main.833279d7.css.map",
-    "main.caa8e39d.js.map": "/MarvelCinemaUniverseIntro/static/js/main.caa8e39d.js.map",
+    "main.a8617b1c.js.map": "/MarvelCinemaUniverseIntro/static/js/main.a8617b1c.js.map",
     "787.100a7847.chunk.js.map": "/MarvelCinemaUniverseIntro/static/js/787.100a7847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.833279d7.css",
-    "static/js/main.caa8e39d.js"
+    "static/js/main.a8617b1c.js"
   ]
 }
